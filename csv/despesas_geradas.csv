@@ -1,0 +1,51 @@
+Data;Categoria;Descrição;Valor;Método de pagamento;Tipo de despesa
+14/02/2025;Outros;Despesa 1;465.09;Pix;Fixa
+10/02/2025;Alimentação;Despesa 2;166.83;Cartão de débito;Variável
+24/02/2025;Alimentação;Despesa 3;412.58;Dinheiro;Fixa
+06/02/2025;Alimentação;Despesa 4;281.51;Cartão de crédito;Fixa
+05/01/2025;Educação;Despesa 5;37.07;Dinheiro;Fixa
+20/02/2025;Lazer;Despesa 6;118.89;Pix;Fixa
+19/01/2025;Alimentação;Despesa 7;140.98;Boleto;Fixa
+02/02/2025;Moradia;Despesa 8;166.85;Cartão de débito;Variável
+18/02/2025;Transporte;Despesa 9;46.6;Boleto;Variável
+03/01/2025;Transporte;Despesa 10;293.21;Dinheiro;Variável
+18/01/2025;Outros;Despesa 11;350.75;Dinheiro;Variável
+17/02/2025;Alimentação;Despesa 12;293.39;Cartão de débito;Variável
+06/02/2025;Moradia;Despesa 13;102.99;Cartão de crédito;Variável
+09/02/2025;Lazer;Despesa 14;179.2;Cartão de crédito;Variável
+09/01/2025;Transporte;Despesa 15;151.92;Cartão de débito;Variável
+16/01/2025;Saúde;Despesa 16;49.56;Boleto;Fixa
+21/01/2025;Educação;Despesa 17;151.53;Cartão de débito;Variável
+08/02/2025;Outros;Despesa 18;336.65;Boleto;Variável
+24/01/2025;Saúde;Despesa 19;238.07;Pix;Fixa
+16/01/2025;Moradia;Despesa 20;441.12;Cartão de débito;Variável
+27/01/2025;Educação;Despesa 21;171.76;Boleto;Fixa
+10/01/2025;Lazer;Despesa 22;452.14;Boleto;Variável
+15/02/2025;Educação;Despesa 23;264.78;Boleto;Fixa
+21/02/2025;Lazer;Despesa 24;452.37;Cartão de débito;Fixa
+13/02/2025;Lazer;Despesa 25;470.03;Pix;Variável
+15/01/2025;Moradia;Despesa 26;184.37;Cartão de débito;Fixa
+05/02/2025;Transporte;Despesa 27;181.61;Pix;Fixa
+22/02/2025;Alimentação;Despesa 28;157.94;Boleto;Variável
+27/02/2025;Saúde;Despesa 29;125.08;Boleto;Variável
+01/01/2025;Alimentação;Despesa 30;175.94;Cartão de débito;Variável
+08/02/2025;Educação;Despesa 31;69.81;Pix;Variável
+01/02/2025;Lazer;Despesa 32;204.2;Pix;Variável
+27/02/2025;Moradia;Despesa 33;196.99;Cartão de crédito;Fixa
+22/02/2025;Alimentação;Despesa 34;288.26;Cartão de débito;Fixa
+08/02/2025;Transporte;Despesa 35;195.17;Cartão de débito;Fixa
+21/01/2025;Outros;Despesa 36;265.36;Cartão de débito;Variável
+06/02/2025;Educação;Despesa 37;144.18;Cartão de débito;Variável
+11/02/2025;Saúde;Despesa 38;93.51;Pix;Fixa
+03/02/2025;Saúde;Despesa 39;411.95;Cartão de débito;Fixa
+27/01/2025;Outros;Despesa 40;161.01;Pix;Fixa
+18/02/2025;Moradia;Despesa 41;173.93;Pix;Variável
+01/01/2025;Saúde;Despesa 42;78.04;Pix;Variável
+13/02/2025;Alimentação;Despesa 43;67.8;Boleto;Fixa
+23/01/2025;Alimentação;Despesa 44;206.36;Cartão de crédito;Variável
+27/01/2025;Lazer;Despesa 45;143.49;Dinheiro;Fixa
+05/01/2025;Educação;Despesa 46;213.35;Boleto;Variável
+22/02/2025;Moradia;Despesa 47;72.88;Cartão de crédito;Variável
+19/01/2025;Lazer;Despesa 48;116.95;Cartão de crédito;Variável
+18/01/2025;Alimentação;Despesa 49;28.5;Cartão de crédito;Fixa
+25/02/2025;Alimentação;Despesa 50;250.78;Boleto;Variável
